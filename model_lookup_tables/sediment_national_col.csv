@@ -1,0 +1,122 @@
+LULC_desc,lucode,usle_c,usle_p
+HighDensityUrban,111,0.100,1
+MediumDensityUrban,112,0.100,1
+IndustrialCommercialUnits,121,0.100,1
+IndustrialCommercialUnits,1211,0.100,1
+RoadRailNetwork,122,0.100,1
+Port,123,0.100,1
+Airport,124,0.100,1
+Airport,1241,0.100,1
+ArtificialSurface,125,0.100,1
+MineralExtraction,131,0.350,1
+MineralExtraction,1312,0.350,1
+MineralExtraction,1313,0.350,1
+MineralExtraction,1315,0.350,1
+MineralExtraction,1316,0.350,1
+Dump,132,0.350,1
+GreenUrbanArea,141,0.080,1
+GreenUrbanArea,1411,0.080,1
+GreenUrbanArea,1412,0.080,1
+SportLeisureFacility,142,0.100,1
+SportLeisureFacility,1422,0.100,1
+SportLeisureFacility,1423,0.100,1
+ArableLand,211,0.500,0.5
+ArableLand,212,0.500,0.5
+RiceField,2121,0.500,0.5
+ArableLand,2122,0.500,0.5
+ArableLand,2131,0.500,0.5
+ArableLand,214,0.500,0.5
+ArableLand,2141,0.500,0.5
+ArableLand,2142,0.500,0.5
+ArableLand,215,0.500,0.5
+ArableLand,2151,0.500,0.5
+PermanentCropland,221,0.150,1
+PermanentCropland,2211,0.150,1
+Sugarcane,2212,0.150,1
+Sugarcane,22121,0.150,1
+Sugarcane,22122,0.150,1
+Banana,2213,0.150,1
+PermanentCropland,222,0.150,1
+PermanentCropland,2221,0.150,1
+Coffee,2222,0.150,1
+Cacao,2223,0.150,1
+PermanentCropland,223,0.150,1
+PermanentCropland,2231,0.150,1
+OilPalmPlantation,2232,0.150,1
+Mango,2234,0.150,1
+AgroForestryLand,224,0.250,0.8
+ArtificialSurface,225,0.100,1
+Pastureland,231,0.080,1
+Pastureland,232,0.080,1
+Pastureland,233,0.200,1
+ComplexCultivationPatternedLand,241,0.250,0.8
+ComplexCultivationPatternedLand,242,0.250,0.8
+AgriculturalLandWithNaturalVegetation,243,0.250,0.8
+AgriculturalLandWithNaturalVegetation,244,0.250,0.8
+AgriculturalLandWithNaturalVegetation,245,0.250,0.8
+Forest ,3111,0.001,1
+Forest ,31111,0.001,1
+InlandForestedWetland,31112,0.060,1
+InlandForestedWetland,311121,0.060,1
+Mangrove,311122,0.060,1
+PalmSwamp,311123,0.060,1
+Forest ,3112,0.001,1
+Forest ,31121,0.001,1
+InlandForestedWetland,31122,0.060,1
+Forest ,312,0.001,1
+Forest ,31211,0.001,1
+InlandForestedWetland,31212,0.060,1
+Forest ,31221,0.001,1
+InlandForestedWetland,31222,0.060,1
+AgriculturalLandWithNaturalVegetation,313,0.250,0.8
+AgriculturalLandWithNaturalVegetation,3131,0.250,0.8
+AgriculturalLandWithNaturalVegetation,3132,0.250,0.8
+Forest ,314,0.001,1
+ForestPlantation,315,0.080,1
+ForestPlantation,3151,0.080,1
+ForestPlantation,3152,0.080,1
+Grassland,3211,0.080,1
+Grassland,32111,0.080,1
+Grassland,321111,0.080,1
+OpenSavanna,321112,0.010,1
+MoorAndHeathland,321113,0.080,1
+InlandMarsh,32112,0.060,1
+InlandMarsh,321121,0.060,1
+InlandMarsh,321122,0.060,1
+VegetatedStillWaterBody,321123,0.000,1
+SparseHerbaceousCover,3212,0.200,1
+SparseHerbaceousCover,32121,0.200,1
+SparseHerbaceousCover,32122,0.200,1
+Shrubland,3221,0.080,1
+SparseShrubCover,3222,0.010,1
+SclerophyllousVegetation,32221,0.080,1
+MoorAndHeathland,32222,0.080,1
+EarlySuccession Forest,323,0.001,1
+PoleSuccession Forest,3231,0.001,1
+EarlySuccession Forest,3232,0.001,1
+BeachDuneAndSand,331,0.350,1
+BeachDuneAndSand,3311,0.350,1
+BeachDuneAndSand,3312,0.350,1
+BeachDuneAndSand,3313,0.350,1
+BareRock,332,0.000,1
+SparseVegetation,333,0.010,1
+BurnedLand,334,0.350,1
+GlacierAndPerpetualSnow,335,0.000,1
+GlacierAndPerpetualSnow,3352,0.000,1
+InlandMarsh,411,0.060,1
+PeatBog,412,0.060,1
+VegetatedStillWaterBody,413,0.000,1
+SaltMarsh,421,0.060,1
+Saline,422,0.060,1
+IntertidalFlat,423,0.060,1
+Watercourse,511,0.000,1
+StillWaterBody,512,0.000,1
+StillWaterBody,513,0.000,1
+StillWaterBody,514,0.000,1
+StillWaterBody,5141,0.000,1
+StillWaterBody,5142,0.000,1
+InlandWaterBody,5143,0.000,1
+CoastalLagoon,521,0.000,1
+SeaAndOcean,522,0.000,1
+MarineWaterBody,523,0.000,1
+NoData,99,0.000,0
